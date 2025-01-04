@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Nature.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Nature";
 
 /**
  * Project list
@@ -31,29 +31,17 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Simple-Grocery-Store",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Welcome to the Simple Grocery Store project! This is a basic web application built using PHP that simulates a grocery store's online platform. Users can browse through various products, add them to their cart, and proceed to checkout.",
+    url: "https://github.com/MadhavaReddyMadathala/Simple_Grocery_Store",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Tea-Leave-Disease-Prediction",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+      "TeaLeafNet is crafted with the aim of providing an efficient, accurate, and scalable tool for identifying diseases affecting tea leaves. Leveraging state-of-the-art deep learning techniques, this model empowers farmers and researchers to swiftly diagnose and address issues, fostering healthier tea plants and bountiful harvests.",
+    url: "https://github.com/MadhavaReddyMadathala/Tea-Leave-Disease-Prediction",
+    },
 ];
 
 const Portfolio = () => {
