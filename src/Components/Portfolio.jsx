@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Simple-Grocery-Store",
     description:
-      "Welcome to the Simple Grocery Store project! This is a basic web application built using PHP that simulates a grocery store's online platform. Users can browse through various products, add them to their cart, and proceed to checkout.",
+      "This is a basic web application built using PHP that simulates a grocery store's online platform. Users can browse through various products, add them to their cart, and proceed to checkout.",
     url: "https://github.com/MadhavaReddyMadathala/Simple_Grocery_Store",
   },
   {
