@@ -42,6 +42,12 @@ const projectList = [
       "TeaLeafNet is crafted with the aim of providing an efficient, accurate, and scalable tool for identifying diseases affecting tea leaves. Leveraging state-of-the-art deep learning techniques, this model empowers farmers and researchers to swiftly diagnose and address issues, fostering healthier tea plants and bountiful harvests.",
     url: "https://github.com/MadhavaReddyMadathala/Tea-Leave-Disease-Prediction",
     },
+  {
+    title: "Legal AI Chatbot",
+    description:
+      "Legal-AI-Chatbot is an intelligent assistant designed to help legal professionals quickly access case laws and IPC sections, with a special focus on women's safety. Powered by AI, it streamlines legal research for faster decision-making.",
+    url: "https://github.com/MadhavaReddyMadathala/Legal_AI_Chatbot",
+    },
 ];
 
 const Portfolio = () => {
