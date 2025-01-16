@@ -43,7 +43,7 @@ const projectList = [
     url: "https://github.com/MadhavaReddyMadathala/Tea-Leave-Disease-Prediction",
     },
   {
-    title: "Legal AI Chatbot",
+    title: "Legal-AI-Chatbot",
     description:
       "Legal-AI-Chatbot is an intelligent assistant designed to help legal professionals quickly access case laws and IPC sections, with a special focus on women's safety. Powered by AI, it streamlines legal research for faster decision-making.",
     url: "https://github.com/MadhavaReddyMadathala/Legal_AI_Chatbot",
