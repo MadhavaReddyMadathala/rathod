@@ -48,6 +48,22 @@ const projectList = [
       "Legal-AI-Chatbot is an intelligent assistant designed to help legal professionals quickly access case laws and IPC sections, with a special focus on women's safety. Powered by AI, it streamlines legal research for faster decision-making.",
     url: "https://github.com/MadhavaReddyMadathala/Legal_AI_Chatbot",
     },
+  {
+    title: "AI Pose Estimation with Python and MediaPipe",
+    description:
+      "The project AI Pose Estimation with Python and MediaPipe uses real-time pose detection to track body movements and analyze fitness poses. It features an AI-powered Gym Tracker, built with Python, MediaPipe, and OpenCV, to enhance workout performance and provide smart fitness insights.",
+    url: "https://github.com/MadhavaReddyMadathala/AI_Pose_Detection",
+    },{
+    title: "German language translation app",
+    description:
+      "A simple German Language Translation App that translates English to German using Gradio, Python, and a Hugging Face pre-trained model. The app is designed for quick, accurate, and user-friendly translations, making it easy to bridge language gaps with ease.",
+    url: "https://github.com/MadhavaReddyMadathala/German_language_translation_app",
+    },{
+    title: "Gender & Age prediction",
+    description:
+      "This project focuses on building a deep learning-based system that can predict a person's gender (Male/Female) and approximate age group from an input image. Using advanced computer vision techniques and pre-trained deep learning models, the system analyzes facial features to provide accurate predictions.",
+    url: "https://github.com/MadhavaReddyMadathala/Gender_Age_Prediction",
+    },
 ];
 
 const Portfolio = () => {
