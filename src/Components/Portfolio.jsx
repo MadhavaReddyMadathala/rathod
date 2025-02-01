@@ -63,7 +63,7 @@ const projectList = [
     description:
       "This project focuses on building a deep learning-based system that can predict a person's gender (Male/Female) and approximate age group from an input image. Using advanced computer vision techniques and pre-trained deep learning models, the system analyzes facial features to provide accurate predictions.",
     url: "https://github.com/MadhavaReddyMadathala/Gender_Age_Prediction",
-    },
+    },{
     title: "Deep Drownines Detection",
     description:
       "Deep Drowsiness Detection is an AI-powered system that uses YOLO,PyTorch and Python to detect driver drowsiness in real-time through facial cues like closed eyes, helping enhance road safety.",
